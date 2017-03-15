@@ -1,0 +1,2 @@
+start tests:
+mvn clean test -Dbrowser=chrome -DchromeDriver=/path/to/chromedriver -DbaseUrl=http://book.theautomatedtester.co.uk/
